@@ -6,5 +6,6 @@ purple
 orange
 violer
 new voilet
+new green
 
 These are the colors of the rainbow.
